@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vyacheslav Protsiuk but you could call me Slava
+- 👀 I’m interested in Robot Framework and test automation generally
+- 🌱 I’m currently learning Java Script to have more ability in the test automation
+- 💞️ I’m looking to collaborate on Robot Framework using
+- 📫 You can email me on slava.protsiuk@gmail.com
